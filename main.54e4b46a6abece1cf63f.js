@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{L1EO:function(n,t,o){},QfWi:function(n,t,o){"use strict";o.r(t);o("L1EO"),o("JBxO"),o("FdtR"),fetch("https://restcountries.eu/rest/v2/").then((function(n){return n.json()})).then((function(n){console.log(n)})).catch((function(n){console.log(n)}))}},[["QfWi",1,2]]]);
+//# sourceMappingURL=main.54e4b46a6abece1cf63f.js.map
