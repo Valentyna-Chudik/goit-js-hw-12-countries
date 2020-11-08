@@ -37,7 +37,7 @@ body {
   letter-spacing: 2px;
 }
 
-/* Input CSS */
+/* Input Search*/
 .input-search {
   margin-bottom: 60px;
   padding-left: 70px;
@@ -51,19 +51,13 @@ body {
   font-size: 20px;
 }
 
-/* Card CSS */
+/* Country Card */
 .card-container {
   text-align: left;
   align-items: center;
 }
 
 .card-body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.card-item {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -91,4 +85,13 @@ body {
 .item {
   font-weight: 700;
   font-size: 25px;
+}
+
+/* Countries Cards */
+.countries-list {
+  width: 50%;
+  margin: 0 auto;
+
+  font-weight: 700;
+  font-size: 22px;
 }
