@@ -38,4 +38,4 @@ function renderMarkup(countryName) {
   }
 };
 
-export default { renderMarkup, clearMarkup, renderCountryCard, renderCountriesCards };
+export default { renderMarkup, clearMarkup };
